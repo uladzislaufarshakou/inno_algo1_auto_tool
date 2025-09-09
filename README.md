@@ -17,7 +17,7 @@
 
 - [x] Create a todo list for the current phase of development
 
-- [ ] Create an interface IDatabase (as a Strategy interface)
+- [x] Create an interfaces IDatabaseReader and IDatabaseWriter (as a Strategy interface)
 - [ ] Create at least a PostgresDB (as a concrete Strategy realization)
 
 - [ ] Create an interface IReader (as a Strategy interface)
