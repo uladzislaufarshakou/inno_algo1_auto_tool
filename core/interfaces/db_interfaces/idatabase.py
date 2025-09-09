@@ -48,3 +48,7 @@ class IDatabaseReader(ABC):
             self.__find_by_column_name(col)
         else:
             pass
+
+
+class IDatabase(IDatabaseReader, IDatabaseWriter):
+    pass
