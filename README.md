@@ -1,4 +1,4 @@
-# Python LLM Learning Authomatization Tool
+# Python LLM Learning Authomation Tool
 
 ## 📝 Plan of Work
 
